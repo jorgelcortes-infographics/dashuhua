@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.3.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 800 874" style="enable-background:new 0 0 800 874;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#A49273;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#FFF000;stroke-miterlimit:10;}
+	.st2{fill:#FFF000;}
+	.st3{fill:#AB6B48;}
+	.st4{font-family:'Roboto-Bold';}
+	.st5{font-size:36px;}
+	.st6{fill:#070605;}
+	.st7{fill:none;}
+	.st8{fill:#FFFFFF;}
+	.st9{font-family:'Roboto-Regular';}
+	.st10{font-size:24px;}
+</style>
+<rect x="-41" y="-23" width="864" height="1327"/>
+<line class="st0" x1="0.1" y1="40.5" x2="803.1" y2="40.5"/>
+<image style="overflow:visible;" width="757" height="594" xlink:href="52C2116A70749348.png"  transform="matrix(1 0 0 1 -24 261)">
+</image>
+<g>
+	<g>
+		<line class="st1" x1="309.8" y1="629.8" x2="309.8" y2="680.8"/>
+		<g>
+			<path class="st2" d="M305,674c0.2-0.1,0.5-0.1,0.7,0.2l4.1,6.5l4.1-6.5c0.1-0.2,0.5-0.3,0.7-0.2c0.2,0.1,0.3,0.5,0.2,0.7
+				l-4.5,7.1c-0.1,0.1-0.3,0.2-0.4,0.2s-0.3-0.1-0.4-0.2l-4.5-7.1c-0.1-0.1-0.1-0.2-0.1-0.3C304.7,674.2,304.8,674,305,674z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<path class="st1" d="M351.2,381.2c0,0-43.7,6.7-52.6,60.2"/>
+		<g>
+			<path class="st2" d="M295,433.8c0.3-0.1,0.5,0,0.7,0.3l2.9,7.1l5.2-5.6c0.2-0.2,0.5-0.2,0.7,0c0.2,0.2,0.2,0.5,0,0.7l-5.7,6.2
+				c-0.1,0.1-0.3,0.2-0.5,0.2c-0.2,0-0.3-0.1-0.4-0.3l-3.2-7.8c0-0.1,0-0.2,0-0.3C294.8,434,294.9,433.9,295,433.8z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 85.3645 138.5178)" class="st3 st4 st5">MOLTEN IRON TO VESSEL</text>
+</g>
+<g>
+	<path class="st3" d="M43.3,99.9H1.4v53.3h63.3v-31.9C64.7,109.5,55.1,99.9,43.3,99.9z"/>
+	<g>
+		<text transform="matrix(1 0 0 1 12.3713 139.887)" class="st6 st4 st5">03</text>
+	</g>
+</g>
+<rect x="1.6" y="312.5" class="st7" width="228.2" height="163.4"/>
+<text transform="matrix(1 0 0 1 1.5647 330.5042)"><tspan x="0" y="0" class="st8 st9 st10">Sparks squeezing </tspan><tspan x="0" y="28.8" class="st8 st9 st10">from the cracks and </tspan><tspan x="0" y="57.6" class="st8 st9 st10">melted iron flowing </tspan><tspan x="0" y="86.4" class="st8 st9 st10">down to the vessel</tspan></text>
+<rect x="594.7" y="97.5" class="st7" width="186.7" height="163.4"/>
+<text transform="matrix(1 0 0 1 594.6897 115.5032)"><tspan x="0" y="0" class="st8 st9 st10">A large stick </tspan><tspan x="0" y="28.8" class="st8 st9 st10">behind furnace </tspan><tspan x="0" y="57.6" class="st8 st9 st10">helps to empty </tspan><tspan x="0" y="86.4" class="st8 st9 st10">the burning liquid</tspan></text>
+<text transform="matrix(1 0 0 1 319.4954 803.9651)" class="st8 st9 st10">Vessel</text>
+<path class="st1" d="M310.1,333.5"/>
+<image style="overflow:visible;" width="300" height="200" xlink:href="furnace-anim.gif"  transform="matrix(1 0 0 1 515 223)">
+</image>
+</svg>
