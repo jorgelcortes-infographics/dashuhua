@@ -3,11 +3,12 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 800 780" style="enable-background:new 0 0 800 780;" xml:space="preserve">
 <style type="text/css">
+	@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,700');
 	.st0{opacity:0.8;}
 	.st1{fill:none;stroke:#FFF000;stroke-miterlimit:10;}
 	.st2{fill:#FFF000;}
 	.st3{fill:#AB6B48;}
-	.st4{font-family:'Roboto-Bold';}
+	.st4{font-family:'Roboto';font-weight: 700;}
 	.st5{font-size:36px;}
 	.st6{fill:#070605;}
 	.st7{clip-path:url(#SVGID_2_);}
@@ -15,7 +16,7 @@
 	.st9{opacity:0.8;fill:none;stroke:#3EBEEF;stroke-miterlimit:10;stroke-dasharray:1,0.5;}
 	.st10{fill:none;}
 	.st11{fill:#FFFFFF;}
-	.st12{font-family:'Roboto-Regular';}
+	.st12{font-family:'Roboto';font-weight: 400;}
 	.st13{font-size:24px;}
 	.st14{font-size:42px;}
 	.st15{font-size:30px;}

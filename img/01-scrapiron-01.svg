@@ -3,11 +3,12 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 800 1291" style="enable-background:new 0 0 800 1291;" xml:space="preserve">
 <style type="text/css">
+	@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,700');
 	.st0{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
 	.st1{fill:#FFFFFF;}
 	.st2{fill:none;stroke:#FFF000;stroke-miterlimit:10;}
 	.st3{fill:#FFF000;}
-	.st4{font-family:'Roboto-Bold';}
+	.st4{font-family:'Roboto';font-weight: 700;}
 	.st5{font-size:24px;}
 	.st6{fill:#231815;}
 	.st7{fill:#AB6B48;}
@@ -16,7 +17,7 @@
 	.st10{font-size:42px;}
 	.st11{fill:#070605;}
 	.st12{fill:none;}
-	.st13{font-family:'Roboto-Regular';}
+	.st13{font-family:'Roboto';font-weight: 400;}
 </style>
 <rect x="-41" y="-23" width="864" height="1327"/>
 <image style="overflow:visible;" width="640" height="891" xlink:href="90297234F5CA187E.png"  transform="matrix(1 0 0 1 51 209)">

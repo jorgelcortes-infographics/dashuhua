@@ -3,6 +3,7 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 800 1145" style="enable-background:new 0 0 800 1145;" xml:space="preserve">
 <style type="text/css">
+	@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,700');
 	.st0{opacity:0.3;fill:#009FE8;}
 	.st1{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
 	.st2{fill:none;stroke:#FFFFFF;stroke-width:0.3;stroke-miterlimit:10;}
@@ -12,7 +13,7 @@
 	.st6{fill:none;stroke:#FFF000;stroke-miterlimit:10;}
 	.st7{fill:#FFF000;}
 	.st8{opacity:0.3;fill:#C8BB9B;}
-	.st9{font-family:'Roboto-Regular';}
+	.st9{font-family:'Roboto';font-weight: 400;}
 	.st10{font-size:24px;}
 	.st11{opacity:0.3;fill:#E8CDB4;}
 </style>
